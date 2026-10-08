@@ -1,3 +1,5 @@
+> **This project is no longer maintained.**
+
 ## Colors
 
 | Color  | Hex                                                                         | repo  |
